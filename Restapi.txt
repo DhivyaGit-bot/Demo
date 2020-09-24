@@ -1,3 +1,0 @@
-Welcome to REST API!
-
-Rest API using POSTMAN.
